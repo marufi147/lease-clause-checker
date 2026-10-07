@@ -1,0 +1,21 @@
+clause,expected,predicted,model_score,rule,correct
+3. UTILITIES: Tenant pays for gas and electricity; landlord pays for water.,0,0,0.2,,True
+Tenant may paint the bedroom walls with the landlord's approval.,0,0,0.13,,True
+The landlord will fix any heating problem within 48 hours of being told.,0,1,0.6,Too little time to leave,False
+Rent receipts will be provided on request.,0,0,0.03,,True
+7. KEYS: Tenant will receive two keys and must return them when moving out.,0,0,0.36,,True
+The landlord will return the deposit with interest as required by state law.,0,0,0.14,,True
+Tenant may have a small vegetable garden in the backyard.,0,0,0.1,,True
+Landlord must give 30 days notice before any change to the house rules.,0,0,0.32,,True
+Tenant may break the lease without penalty if called to active military duty.,0,1,0.83,,False
+Bicycles may be stored in the basement storage room.,0,0,0.11,,True
+4. ACCESS: The property manager keeps a key and may let himself in day or night.,1,1,0.58,,True
+The tenant agrees to forfeit the deposit if the lease is not renewed.,1,1,0.68,,True
+Resident shall pay a $50 fee every time a maintenance request is made.,1,0,0.33,,False
+All appliance breakdowns are the renter's problem to fix and pay for.,1,0,0.44,,False
+The renter may not join or organize any tenant association.,1,1,0.62,,True
+"Owner bears no responsibility for theft, flooding or mold, regardless of cause.",1,1,0.78,,True
+"If rent is three days late, the owner may enter and take the tenant's furniture as payment.",1,0,0.3,,False
+The landlord may end this lease with 3 days notice if he decides to sell the house.,1,1,0.55,,True
+Rent will increase by 20 percent every three months.,1,0,0.24,,False
+"Any complaint must be settled by an arbitrator chosen by the landlord, and the tenant gives up going to court.",1,0,0.43,,False
