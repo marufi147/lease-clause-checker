@@ -54,3 +54,13 @@ v2 settings (own clauses weighted ×10, +500 real-lease normal sentences) were c
 check_document("my_lease.pdf", "lease")        # PDF or .docx
 check_document("notice.pdf", "notice")         # eviction notice + completeness check
 check_text("1. Landlord may enter at any time.")
+```
+To rebuild the datasets, run the notebook in `notebooks/` (downloads go to `data/external/`, which is not committed). The original v1 checker (`lease_checker.py`) is kept for comparison.
+
+## Limitations & future work
+Small lease test set (20 clauses, so 1 clause = 5%); rent, entry and pets/guests clause types have only 8 examples each; weak on numbers (e.g. rent increases), lease-only risk types and fair vs unfair termination language. Future: collect real unfair lease clauses from tenant-rights cases, tune the threshold on a lease validation set, fine-tune Legal-BERT.
+
+**Disclaimer:** This tool gives warnings, not legal advice.
+
+## Author
+Bhuyan Maruf · [GitHub](https://github.com/marufi147)
