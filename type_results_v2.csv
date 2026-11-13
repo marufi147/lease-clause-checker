@@ -1,0 +1,10 @@
+test set,model,n,accuracy,macro F1
+Lease TEST (16),seed only (64),16,0.94,0.93
+Lease TEST (16),all 4 datasets,16,0.88,0.87
+Lease TEST (16),all 4 + seed weight 10,16,1.0,1.0
+CUAD test,seed only (64),142,0.74,0.34
+CUAD test,all 4 datasets,142,0.89,0.66
+CUAD test,all 4 + seed weight 10,142,0.89,0.53
+LEDGAR test,seed only (64),103,0.69,0.33
+LEDGAR test,all 4 datasets,103,0.91,0.91
+LEDGAR test,all 4 + seed weight 10,103,0.91,0.91

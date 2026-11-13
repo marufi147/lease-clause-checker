@@ -1,0 +1,65 @@
+text,clause_type,risky
+"The monthly rent is $1,200, payable on the first day of each month.",rent,0
+Rent shall be paid by bank transfer to the account designated by the Landlord.,rent,0
+The Landlord may increase the rent at any time at its sole discretion.,rent,1
+Rent will remain fixed for the full twelve-month term of this agreement.,rent,0
+The Landlord may raise the rent without notice if property taxes increase.,rent,1
+Any rent increase requires at least sixty days written notice to the Tenant.,rent,0
+"Tenant agrees to pay twelve months of rent in advance, which is non-refundable.",rent,1
+Rent for a partial month will be prorated on a daily basis.,rent,0
+The Tenant shall pay a security deposit equal to one month's rent.,deposit,0
+The security deposit is non-refundable under all circumstances.,deposit,1
+"The deposit will be returned within 30 days after the Tenant moves out, minus documented damages.",deposit,0
+The Landlord will provide an itemized list of any deductions from the deposit.,deposit,0
+The Tenant forfeits the entire deposit if the lease is ended early for any reason.,deposit,1
+Normal wear and tear will not be deducted from the security deposit.,deposit,0
+The Landlord may keep the deposit to cover cleaning costs regardless of the condition of the unit.,deposit,1
+The deposit will be held in a separate account and will not be used as last month's rent.,deposit,0
+The Landlord may enter the premises at any time without notice.,entry,1
+"The Landlord will give at least 24 hours written notice before entering the unit, except in emergencies.",entry,0
+The Landlord or its agents may access the apartment at any time for any purpose.,entry,1
+Entry for repairs will take place during normal business hours with advance notice.,entry,0
+"The Tenant may not change the locks, and the Landlord keeps a key and may enter without prior notice.",entry,1
+"In an emergency such as fire or flooding, the Landlord may enter without prior notice.",entry,0
+Showings to prospective tenants will be scheduled with the Tenant in advance.,entry,0
+"The Landlord may inspect the unit whenever it chooses, and the Tenant waives any right to privacy.",entry,1
+"The Landlord is responsible for repairs to plumbing, heating, and electrical systems.",repairs,0
+"The Tenant is responsible for all repairs, including structural repairs and the roof.",repairs,1
+The Tenant shall report any damage or needed repairs to the Landlord promptly.,repairs,0
+"The Tenant must pay for any repairs, regardless of the cause of the damage.",repairs,1
+The Landlord will make necessary repairs within a reasonable time after being notified.,repairs,0
+The Tenant accepts the unit as-is and the Landlord has no obligation to make any repairs.,repairs,1
+The Tenant will pay for damage caused by the Tenant's own negligence or guests.,repairs,0
+Minor maintenance such as replacing light bulbs is the Tenant's responsibility.,repairs,0
+Either party may end this lease by giving sixty days written notice.,termination,0
+The Landlord may terminate this lease and require the Tenant to vacate within 3 days for any reason.,termination,1
+This lease will automatically renew for another full year unless cancelled 90 days before the end date.,termination,1
+"At the end of the term, the lease converts to a month-to-month tenancy.",termination,0
+The Tenant must vacate within 24 hours after receiving notice from the Landlord.,termination,1
+"If the Tenant breaks the lease early, the Tenant must pay rent until a new tenant is found.",termination,0
+"If the Tenant fails to pay rent, the Landlord may change the locks and remove the Tenant's belongings.",termination,1
+"The Landlord must follow the legal eviction process, including a court order, to remove the Tenant.",termination,0
+A late fee of $25 will be charged if rent is more than five days late.,fees,0
+A late fee of 20% of the monthly rent will be charged for each day rent is late.,fees,1
+A fee of $35 applies to any returned or bounced payment.,fees,0
+"The Tenant shall pay all of the Landlord's attorney fees in any dispute, regardless of outcome.",fees,1
+There is no application fee for renewing this lease.,fees,0
+The Tenant must pay a $500 administrative fee for every maintenance request.,fees,1
+Late fees will not exceed 5% of the monthly rent.,fees,0
+The Tenant shall pay a penalty of $100 per day for any violation of the house rules.,fees,1
+"The Landlord shall not be liable for any injury or damage on the premises, including damage caused by the Landlord's own negligence.",liability,1
+The Tenant is advised to obtain renter's insurance for personal belongings.,liability,0
+The Tenant waives the right to a jury trial in any dispute arising from this lease.,liability,1
+The Landlord will maintain liability insurance for the common areas of the building.,liability,0
+The Tenant waives all claims against the Landlord for loss of property for any reason.,liability,1
+Each party is responsible for damage caused by its own negligence.,liability,0
+The Tenant agrees not to report any code violations to government authorities.,liability,1
+The Landlord will comply with all applicable building and health codes.,liability,0
+No pets are allowed without the Landlord's written consent.,pets_guests,0
+Guests may stay up to fourteen consecutive nights without the Landlord's approval.,pets_guests,0
+The Tenant may not have any overnight guests at any time.,pets_guests,1
+A refundable pet deposit of $200 is required for each approved pet.,pets_guests,0
+The Landlord may evict the Tenant immediately if a guest stays longer than one night.,pets_guests,1
+Service animals and assistance animals are permitted regardless of the pet policy.,pets_guests,0
+The Tenant must pay $50 per day for each visitor who enters the building.,pets_guests,1
+Quiet hours are from 10 p.m. to 7 a.m. for all residents and guests.,pets_guests,0

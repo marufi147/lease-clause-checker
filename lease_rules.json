@@ -1,0 +1,57 @@
+[
+  [
+    "Entry without notice",
+    "enter.{0,60}(without|with or without) (prior )?notice|enter.{0,40}(any time|anytime|any hour|whenever)(?!.{0,25}emergenc)|unannounced",
+    "The landlord can come into your home without warning. Most places require reasonable notice (often 24 hours)."
+  ],
+  [
+    "Deposit may not be returned",
+    "non-?refundable|(keep|retain|forfeit)s?.{0,15}(the )?(entire|full|whole) (security )?deposit|deposit.{0,30}(for any reason|not be returned)",
+    "You might lose your security deposit even if you did nothing wrong."
+  ],
+  [
+    "Very high fees or penalties",
+    "per day.{0,40}late|no maximum|\\$\\s?\\d{3,}.{0,20}(charge|penalty)|attorney.?s? fees.{0,30}regardless|penalty equal to",
+    "This charges large or unlimited fees. Check if the amount is reasonable and legal where you live."
+  ],
+  [
+    "You pay for repairs",
+    "all repairs|as[- ]is|no obligation to (make )?(any )?repairs?|pay for normal wear",
+    "You may have to pay for repairs that are normally the landlord's job, like plumbing, heating or normal wear."
+  ],
+  [
+    "You give up your rights",
+    "tenant waives|waives? (all|any|the) rights?|give up your right|not (to )?report",
+    "You are asked to give up legal protections, such as notice, going to court, or reporting unsafe conditions."
+  ],
+  [
+    "Landlord avoids responsibility",
+    "not (be )?liable|indemnify|even if caused by",
+    "The landlord says they are not responsible, even if they cause harm or damage."
+  ],
+  [
+    "Lockout or utility shutoff",
+    "change the locks|shut off|without (a )?court|sold or destroyed|remove.*belongings",
+    "The landlord may lock you out, cut utilities, or take your things without going to court. This is illegal in many places."
+  ],
+  [
+    "Unfair ending or renewal",
+    "terminate.{0,30}without cause|remaining rent for the entire term|automatically renews? for (another|a) (full )?year",
+    "The lease can end suddenly, trap you into renewing, or charge you heavily for leaving early."
+  ],
+  [
+    "Rent can rise anytime",
+    "(increase|raise)d?.{0,30}rent.{0,40}(any time|anytime|any amount|without notice)|rent.{0,20}(raised|increased).{0,20}any",
+    "The landlord can raise your rent during the lease or without proper notice."
+  ],
+  [
+    "Privacy limits",
+    "cameras?.{0,30}inside|inside the unit.{0,30}cameras?|overnight guests",
+    "This limits your privacy or who can visit your home."
+  ],
+  [
+    "Too little time to leave",
+    "within (24|48) hours|within one day|immediate removal",
+    "You are given very little time to respond or move out. The law usually requires more notice."
+  ]
+]

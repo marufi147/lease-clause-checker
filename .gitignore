@@ -1,0 +1,4 @@
+data/external/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

@@ -1,0 +1,13 @@
+test set,model,accuracy,precision,recall,F1,false alarm rate
+Your final test (20),old,0.65,0.71,0.5,0.59,
+Your final test (20),new v1 (unweighted),0.55,0.57,0.4,0.47,
+Your final test (20),new v2 (chosen),0.55,0.57,0.4,0.47,
+UNFAIR-ToS test,old,0.67,0.57,0.2,0.3,
+UNFAIR-ToS test,new v1 (unweighted),0.8,0.68,0.81,0.74,
+UNFAIR-ToS test,new v2 (chosen),0.77,0.63,0.82,0.71,
+LEDGAR boilerplate test,old,0.99,,,,0.01
+LEDGAR boilerplate test,new v1 (unweighted),0.99,,,,0.01
+LEDGAR boilerplate test,new v2 (chosen),0.98,,,,0.02
+Real-lease false-alarm test,old,0.92,,,,0.08
+Real-lease false-alarm test,new v1 (unweighted),0.85,,,,0.15
+Real-lease false-alarm test,new v2 (chosen),0.93,,,,0.07

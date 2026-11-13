@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+pdfplumber
+python-docx
+sentence-transformers
+joblib
+matplotlib
+datasets==3.6.0
